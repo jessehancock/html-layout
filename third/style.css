@@ -1,0 +1,45 @@
+.header{
+	height: 14vh;
+	background-color: lightgray;
+	padding-top: 12px;
+	padding-left: 22px;
+}
+
+.logo{
+	height: 75px;
+	width: 75px;
+	background-color: lightblue;
+}
+
+.phar-body{
+	width: 100%;
+	height: 30vh;
+	background-color: white;
+	font-family: 'lato';
+	padding: 60px 25px;
+	line-height: 20px;
+	
+}
+
+.one{
+	height: 14vh;
+	background-color: darkblue;
+}
+
+.two{
+	height: 14vh;
+	background-color: dodgerblue;
+	
+}
+
+.three{
+	height: 14vh;
+	background-color: aqua;
+	
+}
+
+.four{
+	height: 14vh;
+	background-color: greenyellow;
+	
+}

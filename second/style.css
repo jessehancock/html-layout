@@ -1,0 +1,31 @@
+.container{
+	display: flex;
+}
+
+.left{
+	background-color: #4A90E2;
+	width: calc(100%/3);
+	height: 100vh;
+}
+
+.mid{
+	background-color: #50E3C2;
+	width: calc(100%/3);
+	height: 100vh;
+}
+
+.right{
+	background-color: #B8E986;
+	width: calc(100%/3);
+	height: 100vh;
+	position: relative;
+}
+
+.bottom{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	height: 25vh;
+	width: 100%;
+	background-color: red;
+}
